@@ -17,7 +17,7 @@ Certain media platforms or repositories dictate citation practices in the terms 
 
 Choosing reliable sources for images is similar to finding scholarly sources for written work. For research, avoid using images that rely on Photoshop or filters to significantly alter the look of an object or monument. Cultural heritage organizations, museums, and university image collections, are more reliable than uncited sources or personal blogs. These cultural heritage organizations may use social media sites like Flickr, or their images may show up in a Google Image search or on Wikimedia Commons alongside with many other less reliable sources. Before re-using an image it is important to know the creator or publisher’s name, what kind of expertise they have, and how reliable their caption information is.
 
-_For further information on creating citations online, see LEADR’s “[Active Citations](https://github.com/leadr-msu/Resources/tree/master/active-citations)” tutorial on GitHub._ 
+_For further information on creating citations online, see LEADR’s “[Active Citations](https://github.com/leadr-msu/active-citations)” tutorial on GitHub._ 
 
 ###LICENSING AND COPYRIGHT
 The term [copyright](http://www.wikiwand.com/en/Copyright) refers to the rights of a creator over their own work and how that work is reused. Copyright laws vary widely by country. These rights may be further clarified and expressed if the creator adopts a license or uses a rights statement. Some individuals, museums, digital archives, and cultural organizations encourage reuse while others do not. Stanford University Libraries offers a [Copyright Overview](http://fairuse.stanford.edu/overview/) online. 
