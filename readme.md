@@ -1,8 +1,8 @@
-##Reusing and Attributing Media
+## Reusing and Attributing Media
 
 _These are some loose guidelines to use in LEADR workshops for students who need to use images in class projects. The information here could also apply to media other than images: sound files, videos, 3D models, multi-media projects, or even data sets. There are two threads to the discussion: attribution (academic citation) and reuse (licensing and rights). Be sure to remind students that this is not legal advice (for that they would need a copyright lawyer), and for further information they can consult a copyright librarian._ 
 
-###ATTRIBUTION 
+### ATTRIBUTION 
 
 Just as you would cite written sources in a footnote or parenthetical note, it is important to cite images and other media as sources. The location and format of the citation will depend on the tool/platform and whether the professor has a preference. 
 
@@ -19,7 +19,7 @@ Choosing reliable sources for images is similar to finding scholarly sources for
 
 _For further information on creating citations online, see LEADR’s “[Active Citations](https://github.com/leadr-msu/active-citations)” tutorial on GitHub._ 
 
-###LICENSING AND COPYRIGHT
+### LICENSING AND COPYRIGHT
 The term [copyright](http://www.wikiwand.com/en/Copyright) refers to the rights of a creator over their own work and how that work is reused. Copyright laws vary widely by country. These rights may be further clarified and expressed if the creator adopts a license or uses a rights statement. Some individuals, museums, digital archives, and cultural organizations encourage reuse while others do not. Stanford University Libraries offers a [Copyright Overview](http://fairuse.stanford.edu/overview/) online. 
 
 The MSU Library has these online resources as well: 
@@ -60,4 +60,4 @@ _The information in this guide is meant to be guidelines and resources, not lega
 Compiled by A.L. McMichael for LEADR on November 8, 2016.
 
 -----
-###Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
+### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
