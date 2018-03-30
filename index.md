@@ -60,4 +60,4 @@ _The information in this guide is meant to be guidelines and resources, not lega
 Compiled by A.L. McMichael for LEADR on November 8, 2016.
 
 -----
-### Return to [LEADR's Resources list](http://leadr-msu.github.io/resources/)
+### Return to [LEADR's Resources list](https://leadr-msu.github.io/)
